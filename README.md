@@ -26,3 +26,27 @@ pip install pyinstaller
 ```bash
 pyinstaller --onefile --windowed --name "TimeframeSync" timers.py
 ```
+---
+
+# Linux (Ubuntu)
+
+Install pipx first
+```bash
+sudo apt update
+```
+
+```bash
+sudo apt install pipx
+```
+
+```bash
+pipx ensurepath
+```
+
+Then install pyinstaller with pipx
+```bash
+pipx install pyinstaller
+```
+
+Then try the step (Create the app with pyinstaller)
+
