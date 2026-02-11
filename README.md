@@ -26,6 +26,12 @@ pip install pyinstaller
 ```bash
 pyinstaller --onefile --windowed --name "TimeframeSync" timers.py
 ```
+
+When done, deactivate env
+```bash
+deactivate
+```
+
 ---
 
 # Linux (Ubuntu)
