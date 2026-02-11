@@ -1,0 +1,1 @@
+Timeframe Sync is a lightweight, floating desktop widget designed for traders and financial analysts who need to track multiple timeframe countdowns and global trading sessions simultaneously. It provides real-time visual feedback of candle close times and active market sessions in a clean, always-on-top interface.
