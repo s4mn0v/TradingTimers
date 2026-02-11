@@ -54,5 +54,9 @@ Then install pyinstaller with pipx
 pipx install pyinstaller
 ```
 
+```bash
+sudo apt install python3-tk
+```
+
 Then try the step (Create the app with pyinstaller)
 
